@@ -1,1 +1,1 @@
-Link demo:https://cbtruong.github.io/Practice-with-Project-FrontEnd-Basic/
+Link demo:https://cbtruong.github.io/CSS-PracticeProject_with_FrontEndBasic/
